@@ -29,11 +29,12 @@
 
 // 5 - masala
 // {
-//     let a = +prompt("Kubning tomonini kiriting:");
+//     let a = +prompt("Kubning tomonini kiriting");
+//     let s = 6;
+//     a = a;
+//     s = s * (a * 2);
 //     v = a * (a * a)
-//     s = 6 * a * (a * a)
 //     console.log(v, s);
-
 // }
 
 // 6-masala
