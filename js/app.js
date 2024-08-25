@@ -22,17 +22,18 @@
 // 4 - masala
 // {
 //     let d = +prompt("Aylana diametrini kiriting");
-
 //     p = 3.14;
 //     l = d * p;
 //     console.log("Aylana uzunligi" + l);
 // }
 
-// 5- masala
+// 5 - masala
 // {
-//     let a = +prompt("To'rtburchak a  tomonini kiriting:");
-//     let b = +prompt("To'rtburchak b tomonini kiriting:");
-//     console.log("To'rtburchak yuzasi " + a * b, "To'rtburchak peruimetri " + 2 * (a + b));
+//     let a = +prompt("Kubning tomonini kiriting:");
+//     v = a * (a * a)
+//     s = 6 * a * (a * a)
+//     console.log(v, s);
+
 // }
 
 // 6-masala
